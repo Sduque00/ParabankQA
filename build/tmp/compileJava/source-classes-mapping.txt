@@ -1,0 +1,18 @@
+co/com/sofka/model/register/RegisterModel.java
+ co.com.sofka.model.register.RegisterModel
+co/com/sofka/util/Log4jValues.java
+ co.com.sofka.util.Log4jValues
+co/com/sofka/model/customercare/CustomerCareModel.java
+ co.com.sofka.model.customercare.CustomerCareModel
+co/com/sofka/model/login/LoginModel.java
+ co.com.sofka.model.login.LoginModel
+co/com/sofka/page/common/CommonActionOnPages.java
+ co.com.sofka.page.common.CommonActionOnPages
+co/com/sofka/util/Seconds.java
+ co.com.sofka.util.Seconds
+co/com/sofka/page/register/RegisterPage.java
+ co.com.sofka.page.register.RegisterPage
+co/com/sofka/page/login/LoginPage.java
+ co.com.sofka.page.login.LoginPage
+co/com/sofka/page/customercare/CustomerCarePage.java
+ co.com.sofka.page.customercare.CustomerCarePage

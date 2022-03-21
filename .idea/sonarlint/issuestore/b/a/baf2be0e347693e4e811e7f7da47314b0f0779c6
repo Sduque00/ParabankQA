@@ -1,0 +1,9 @@
+
+E
+java:S1068"*Remove this unused "LOGGER" private field.(ïşËÂúÿÿÿÿ
+Q
+java:S1068"6Remove this unused "MODEL_NULL_MESSAGE" private field.(³Ÿ¼×ıÿÿÿÿ
+w
+java:S1488H"aImmediately return this expression instead of assigning it to the temporary variable "loginDone".(šüáÓ
+„
+java:S1488N"iImmediately return this expression instead of assigning it to the temporary variable "passwordIncorrect".(Ä³Áëıÿÿÿÿ

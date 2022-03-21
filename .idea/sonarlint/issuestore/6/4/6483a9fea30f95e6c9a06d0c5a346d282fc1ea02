@@ -1,0 +1,11 @@
+
+c	java:S1162"NRename this field "SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äá•Ö
+@
+java:S1068"*Remove this unused "LOGGER" private field.(¥±Â
+Q
+java:S1068"6Remove this unused "MODEL_NULL_MESSAGE" private field.(³Ÿ¼×ıÿÿÿÿ
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛƒèÒ
+€
+java:S1488Œ"dImmediately return this expression instead of assigning it to the temporary variable "registerDone".(¿Ú®ùÿÿÿÿ
+|
+java:S1488’"eImmediately return this expression instead of assigning it to the temporary variable "UserNameExist".(ÛƒèÒ
